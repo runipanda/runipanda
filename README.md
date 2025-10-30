@@ -4,16 +4,13 @@
 
 💻 I’m a **Full-Stack Web Developer** passionate about integrating **IoT, AI, and Robotics** with web technologies, to build smart and impactful projects
 
----
-
 ## 🧭 My Philosophy of Life  
 
-> The world is made up of two kinds of people: those who work with their hands and those who work with their brains
-> I’m a **brain worker** — a thinker and a builder
-> I believe in working hard on the invisible — logic, ideas, and systems —  
-> to create something real and impactful 
+> The world is made up of two kinds of people: those who work with their hands and those who work with their brains.  
+> I’m a **brain worker** — a thinker and a builder.  
+> I believe in working hard on the invisible — logic, ideas, and systems —  to create something real and impactful.  
 > My mission is simple: keep learning, keep building, and keep evolving  
-> until my work speaks louder than my words
+> until my work speaks louder than my words.
 
 ---
 
