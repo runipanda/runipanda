@@ -18,8 +18,9 @@
 ## 🧭 My Philosophy
 
 > The world is made up of two kinds of people: those who work with their hands and those who work with their brains.  
-> I’m a **brain worker** — a thinker and a builder. I believe in working hard on the invisible — logic, ideas, and systems.  
-> My mission is simple: keep learning, keep building, and keep evolving until my work speaks louder than my words.
+> I'm a **brain worker**—a thinker and a builder. **AI** repeats the past, but **humans** like me design what's next, the never-before-seen.
+
+My mission: Keep learning, keep building, keep evolving—until my work speaks louder than my words
 
 ---
 
@@ -34,3 +35,5 @@
 <!-- <p align="center">
   <em>Let's build something epic—check my repos or say hi!</em>
 </p> -->
+
+
