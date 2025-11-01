@@ -16,8 +16,8 @@
 
 ## 🧭 My Philosophy
 
-> **AI** repeats the past, but **humans** like me design what's next, the never-before-seen <br>
-> I believe in building things that are clean, meaningful, and beautifully crafted <br>  
+> **AI** repeats the past, but **humans** like me design what's next, the never-before-seen. <br>
+> I believe in building things that are clean, meaningful, and beautifully crafted. <br>
 > **Precision**, **excellence**, and **integrity** are my natural language
 
 *My mission: Keep learning, keep building, keep evolving—until my work speaks louder than my words*
