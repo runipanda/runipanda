@@ -14,13 +14,14 @@
  [**www.roboriver.in**](https://www.roboriver.in)  
 > A functional prototype showcasing my work in Web Development — built as the foundation for upcoming IoT and AI integrations -->
 
-
 ## 🧭 My Philosophy
 
-> The world is made up of two kinds of people: those who work with their hands and those who work with their brains.  
-> I'm a **brain worker**—a thinker and a builder. **AI** repeats the past, but **humans** like me design what's next, the never-before-seen.
+> **AI** repeats the past, but **humans** like me design what's next, the never-before-seen.
+> I believe in building things that are clean, meaningful, and beautifully crafted.  
+> **Precision**, **excellence**, and **integrity** are my natural language
 
-My mission: Keep learning, keep building, keep evolving—until my work speaks louder than my words
+*My mission: Keep learning, keep building, keep evolving—until my work speaks louder than my words*
+
 
 ---
 
@@ -35,5 +36,3 @@ My mission: Keep learning, keep building, keep evolving—until my work speaks l
 <!-- <p align="center">
   <em>Let's build something epic—check my repos or say hi!</em>
 </p> -->
-
-
